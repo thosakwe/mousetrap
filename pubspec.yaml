@@ -1,0 +1,12 @@
+name: mousetrap
+version: 1.0.0
+description: Mousetrap.js interop facade for Dart. Handles keybindings in your browser.
+authors:
+  - Tobe O <thosakwe@gmail.com>
+  - Craig Campbell
+homepage: https://github.com/thosakwe/mousetrap
+dependencies:
+  func: ">=1.0.0 <2.0.0"
+  js: ">=0.6.1 <2.0.0"
+dev_dependencies:
+  browser: 0.10.0
